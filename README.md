@@ -1,4 +1,4 @@
-# upbound
+# UpBound
 
 Welcome to Upbound E-commerce Website!
 
