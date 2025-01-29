@@ -7,7 +7,6 @@ A fully functional e-commerce website that allows users to log in, browse produc
 - **User Authentication**: Secure login for users to access personalized features.
 - **Product Browsing**: Explore a variety of products with easy navigation.
 - **Shopping Cart**: Add items to the cart.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Live Demo
 
